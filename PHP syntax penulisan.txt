@@ -1,0 +1,24 @@
+<?php 
+// Halo Codingers.....
+// Ini adalah projek sintaks php dasar pertama dari saya, dipelajari ya jangan cuman dibaca aja okee....
+
+//standar output pada PHP
+echo / print
+print_r
+var_dump (ini berbeda dengan yang lain, kalau var_dump kita tidak hanya menampilkan sebuah nilai saja, akan tetapi kita dapat mengetahui berapa jumlah character yang ada didalamnya)
+
+//variable dan tipe data
+//operator
+//aritmatika
+$x = 10;
+$y = 20;
+echo $x + $y;
+
+//aritmatika
+echo $x * $y;
+//aritmatika
+echo $x - $y;
+//aritmatika 
+echo $x / $y;
+
+?>
